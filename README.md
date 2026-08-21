@@ -4,8 +4,4 @@ The project demonstrates OOP principles, layered architecture (Controller–Serv
 
 Features: create new member, soft delete (mark inactive), restore deleted members, get member by ID or name, list all active members, count active members, domain models with equals, hashCode, toStringSimple in‑memory repository, controller–Service architecture.
 
-Tech Stack
-Java 17
-Maven
-OOP
-Collections API
+Tech Stack: Java 17, Maven, OOP,Collections API
